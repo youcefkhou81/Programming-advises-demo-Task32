@@ -1,0 +1,4 @@
+﻿  Task32.cpp
+C:\Users\User\source\repos\Task32\Task32\Task32.cpp(25,9): warning C4244: 'initializing': conversion from 'short' to 'char', possible loss of data
+C:\Users\User\source\repos\Task32\Task32\Task32.cpp(28,11): warning C4129: ' ': unrecognized character escape sequence
+  Task32.vcxproj -> C:\Users\User\source\repos\Task32\x64\Debug\Task32.exe
